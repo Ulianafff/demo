@@ -9,9 +9,9 @@ connection = mysql.connector.connect(user='root', password='******',host='127.0.
 cursor = connection.cursor()
 
 # Connect to DB2
-dsn_hostname = "b1bc1829-6f45-4cd4-bef4-10cf081900bf.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud"
-dsn_uid = "gvw16968"       
-dsn_pwd = "P26BFY5VZgm1JRfV"
+dsn_hostname = "***.databases.appdomain.cloud"
+dsn_uid = "***"       
+dsn_pwd = "***"
 dsn_port = "32304" 
 dsn_database = "bludb"    
 dsn_driver = "{IBM DB2 ODBC DRIVER}"        
